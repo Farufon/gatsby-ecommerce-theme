@@ -8,7 +8,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    color: 000;
+    color: var(--standard-white);
 }
 
 .content {
