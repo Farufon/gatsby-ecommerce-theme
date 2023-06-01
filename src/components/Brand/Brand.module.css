@@ -6,9 +6,6 @@
 
 @media (max-width: 800px) {
     .root svg {
-        width: 90px;
-        height: 16.67px;
+        width: 250px;
     }
 }
-.st0{display:none;}
-    .st1{display:inline;fill:#FF8212;}
