@@ -14,8 +14,8 @@ const Brand = (props) => {
      
 
       <svg
-        width={127}
-        height={24}
+        width={300}
+     
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 461.1 187.4"
       >
